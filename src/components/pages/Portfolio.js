@@ -4,6 +4,7 @@ import spotiweather from '../../images/Project1.png'
 import weatherDashboard from '../../images/Weather_Dashboard.png'
 import workDayScheduler from '../../images/Work_Day_Scheduler.png'
 import noteTaker from '../../images/Note_Taker.png'
+import fitnessTracker from '../../images/Workout_Tracker.png'
 export default function Portfolio() {
   return (
     <div>
@@ -73,7 +74,17 @@ export default function Portfolio() {
      <img id="note_taker" src={noteTaker} alt="Note Taker App"/></a>
     
 </div>
-    </div>
+<div>
+    <h3>Fitness Tracker</h3>
+    <p>"For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the Develop folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express." - Courtesy of The Ohio State Full Stack Bootcamp <br>
+     </br> 
+     </p>
+     <div class="firstProject"/>
+     <a href="https://github.com/Brady1052/Fitness-Tracker">Click Here to see Repository</a>
+     <a href=" https://sheltered-tor-12441.herokuapp.com/">
+     <img id="note_taker" src={fitnessTracker} alt="Note Taker App"/></a>
+</div>
+    </div>    
   );
   }
 
