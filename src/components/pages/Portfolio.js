@@ -3,7 +3,6 @@ import movieDBImage from '../../images/MovieDB.png'
 import spotiweather from '../../images/Project1.png'
 import weatherDashboard from '../../images/Weather_Dashboard.png'
 import workDayScheduler from '../../images/Work_Day_Scheduler.png'
-console.log(movieDBImage)
 export default function Portfolio() {
   return (
     <div>
@@ -16,7 +15,7 @@ export default function Portfolio() {
                 </p>
         <div class="firstProject">
             <a href="https://github.com/Brady1052/Group-Project-2">Click Here to see Repository</a>
-            <a href="https://arcane-basin-64105.herokuapp.com/"> <img id="movie_db" src= {movieDBImage} alt="The Movie DB Image"/></a>
+            <a href="https://arcane-basin-64105.herokuapp.com/"> <img id="movie_db" src= {movieDBImage} alt="The Movie DB Screenshot"/></a>
     
     </div>
     <div>
@@ -48,7 +47,7 @@ export default function Portfolio() {
         <a href="https://github.com/Brady1052/Weather-Dashboard">Click Here to see Repository</a>
         
         <a href="https://brady1052.github.io/Weather-Dashboard/"><img id="weather-dashboard"
-                src={weatherDashboard} alt="Weather Dashboard Image"/></a>
+                src={weatherDashboard} alt="Weather Dashboard Screenshot"/></a>
         </div>
     </div>
 

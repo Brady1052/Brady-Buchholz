@@ -27,27 +27,28 @@ code {
   }
   
   h3 {
-      text-align: center;
+  font-family: 'Space Grotesk', sans-serif;
+  text-align: center;
   }
   p {
+    font-family: 'Italiana', serif;
       text-align: center;
-  }
-  
-  body {   
-  
   }
   
   h4 {
+   font-family: 'Space Grotesk', sans-serif;
       text-align: center;
   }
   
   p {
+  font-family: 'Space Grotesk', sans-serif;
   margin-left: 5%;    
   margin-right: 5%
   /* margin-right: 10%; */
   }
   
   h1 {
+  font-family: 'Space Grotesk', sans-serif;
   margin-left: 10px;    
   text-align: center;
   }
@@ -58,16 +59,10 @@ code {
   #profilePicture {
       width: 15%;          
       height:auto;  
-      /* display: block; */
       border-radius:50%;
   }
   
   #profilepicBackground {
-      /* background-color: black;
-      height: 1000px;
-      position:relative;
-      bottom:70px;
-      z-index: -3; */
       text-align: right;
   }
   
@@ -151,3 +146,8 @@ code {
         flex-direction: column;
       }
     }
+    
+  #form {
+    max-width: 50%;
+    margin-left: 25%;
+  }

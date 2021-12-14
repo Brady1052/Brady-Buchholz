@@ -7,7 +7,7 @@ export default function About() {
       <p>
       <img id="profilePicture"
         src="https://media-exp1.licdn.com/dms/image/C4E03AQGWzMq8ajwOWA/profile-displayphoto-shrink_800_800/0/1632607521954?e=1640822400&v=beta&t=uAu9M5kBZoUWPbINIqt3eImMaccuyc0qjyU5BX643Ao"
-        alt="Profile Picture"/>
+        alt="Developer"/>
          <div>
         <h1 id="aboutmeheader">About Me</h1>
         <p id="pAboutMe">
