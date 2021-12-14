@@ -3,6 +3,7 @@ import movieDBImage from '../../images/MovieDB.png'
 import spotiweather from '../../images/Project1.png'
 import weatherDashboard from '../../images/Weather_Dashboard.png'
 import workDayScheduler from '../../images/Work_Day_Scheduler.png'
+import noteTaker from '../../images/Note_Taker.png'
 export default function Portfolio() {
   return (
     <div>
@@ -40,9 +41,9 @@ export default function Portfolio() {
     <div>
         
         <h3>Weather Dashboard</h3>
-        <h3>This application was created by fetching the Open Weather API, and
+        <p>This application was created by fetching the Open Weather API, and
             displaying it's data to the user.
-        </h3>
+        </p>
         <div class ="firstProject">
         <a href="https://github.com/Brady1052/Weather-Dashboard">Click Here to see Repository</a>
         
@@ -53,7 +54,7 @@ export default function Portfolio() {
 
     <div>
         <h3>Work Day Scheduler</h3>
-        <h3> Below is an application I made for scheduling your day in one hour increments</h3>
+        <p> Below is an application I made for scheduling your day in one hour increments</p>
         <div class="firstProject">
          <a href="https://github.com/Brady1052/Work-Day-Scheduler">Click Here to see Repository</a>
         
@@ -61,6 +62,17 @@ export default function Portfolio() {
                 src={workDayScheduler} alt="Work Day Scheduler"/></a>
                 </div>
     </div>
+<div>
+    <h3>Note Taker</h3>
+    <p>This application allows the user to add and save notes to the taker.<br>
+     </br>   Technologies used: Express, Heroku, JSON.
+     </p>
+     <div class="firstProject"/>
+     <a href="https://github.com/Brady1052/Note-Taker">Click Here to see Repository</a>
+     <a href="https://note-take-brady.herokuapp.com/">
+     <img id="note_taker" src={noteTaker} alt="Note Taker App"/></a>
+    
+</div>
     </div>
   );
   }

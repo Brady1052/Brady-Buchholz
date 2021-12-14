@@ -139,6 +139,13 @@ transform: scale(1.5);
       text-align: center;
   }
   
+
+  #note_taker{
+    width:55%;          
+    height:auto;  
+    margin: auto;
+    display:block; 
+  }
   #aboutmeheader {
   text-align: center;
   }
