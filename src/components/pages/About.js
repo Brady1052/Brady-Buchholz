@@ -3,7 +3,7 @@ import React from 'react';
 export default function About() {
   return (
     <div>
-      <h1>About Page</h1>
+      <h1>Brady Buchholz</h1>
       <p>
       <img id="profilePicture"
         src="https://media-exp1.licdn.com/dms/image/C4E03AQGWzMq8ajwOWA/profile-displayphoto-shrink_800_800/0/1632607521954?e=1640822400&v=beta&t=uAu9M5kBZoUWPbINIqt3eImMaccuyc0qjyU5BX643Ao"
