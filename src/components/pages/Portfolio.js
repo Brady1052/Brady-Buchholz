@@ -13,7 +13,7 @@ export default function Portfolio() {
             The application allows users to create an account, and/or login if they want to leave reviews. Below is a link to the website, and our repository. 
             </p>
             <p>
-            Tools / languages used: Handlebars.js, Node and Express Web Server, SQL, Get and Post Routes, Heroku, Sessions, Bcrypt (to hash the user’s password in the database)
+            Tools / languages used: Handlebars.js, Node and Express Web Server, SQL, Get and Post Routes, Heroku, Sessions, Bcrypt (to hash the user's password in the database)
                 </p>
         <div class="firstProject">
             <a href="https://github.com/Brady1052/Group-Project-2">Click Here to see Repository</a>
