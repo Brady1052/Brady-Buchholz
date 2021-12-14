@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c3d9bd60.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.bd6407f4.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.bd6407f4.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.256c6898.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.256c6898.js.map",
+    "static/js/2.de17fac7.chunk.js": "/react-portfolio/static/js/2.de17fac7.chunk.js",
+    "static/js/2.de17fac7.chunk.js.map": "/react-portfolio/static/js/2.de17fac7.chunk.js.map",
+    "static/js/3.91b5d926.chunk.js": "/react-portfolio/static/js/3.91b5d926.chunk.js",
+    "static/js/3.91b5d926.chunk.js.map": "/react-portfolio/static/js/3.91b5d926.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.c3d9bd60.chunk.css.map": "/react-portfolio/static/css/main.c3d9bd60.chunk.css.map",
+    "static/js/2.de17fac7.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.de17fac7.chunk.js.LICENSE.txt",
+    "static/media/MovieDB.9db50ccb.png": "/react-portfolio/static/media/MovieDB.9db50ccb.png",
+    "static/media/Project1.9c122786.png": "/react-portfolio/static/media/Project1.9c122786.png",
+    "static/media/Weather_Dashboard.0f56bc4b.png": "/react-portfolio/static/media/Weather_Dashboard.0f56bc4b.png",
+    "static/media/Work_Day_Scheduler.d04494d5.png": "/react-portfolio/static/media/Work_Day_Scheduler.d04494d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.256c6898.js",
+    "static/js/2.de17fac7.chunk.js",
+    "static/css/main.c3d9bd60.chunk.css",
+    "static/js/main.bd6407f4.chunk.js"
+  ]
+}
