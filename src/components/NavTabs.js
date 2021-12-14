@@ -29,11 +29,11 @@ function NavTabs({ currentPage, handlePageChange }) {
       <li className="nav-item">
         <a
           href="#portfolio"
-          onClick={() => handlePageChange('Blog')}
-          // Check to see if the currentPage is `Blog`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
-          className={currentPage === 'Blog' ? 'nav-link active' : 'nav-link'}
+          onClick={() => handlePageChange('Portfolio')}
+          // Check to see if the currentPage is `Portfolio`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
+          className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
         >
-          Blog
+          Portfolio
         </a>
       </li>
       <li className="nav-item">
@@ -44,6 +44,16 @@ function NavTabs({ currentPage, handlePageChange }) {
           className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
         >
           Contact
+        </a>
+      </li>
+      <li className="nav-item">
+        <a 
+          href='https://docdro.id/4Ojlk05'
+          onClick={() => handlePageChange('Resume')}
+          // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
+          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+        >
+          Resume
         </a>
       </li>
     </ul>

@@ -1,5 +1,9 @@
 import React from 'react';
-
+import movieDBImage from '../../images/MovieDB.png'
+import spotiweather from '../../images/Project1.png'
+import weatherDashboard from '../../images/Weather_Dashboard.png'
+import workDayScheduler from '../../images/Work_Day_Scheduler.png'
+console.log(movieDBImage)
 export default function Portfolio() {
   return (
     <div>
@@ -12,7 +16,7 @@ export default function Portfolio() {
                 </p>
         <div class="firstProject">
             <a href="https://github.com/Brady1052/Group-Project-2">Click Here to see Repository</a>
-            <a href="https://arcane-basin-64105.herokuapp.com/"> <img id="movie_db" src="Images/The Movie DB.png" alt="The Movie DB Image"/></a>
+            <a href="https://arcane-basin-64105.herokuapp.com/"> <img id="movie_db" src= {movieDBImage} alt="The Movie DB Image"/></a>
     
     </div>
     <div>
@@ -29,7 +33,7 @@ export default function Portfolio() {
     
         <div class="firstProject">
             <a href="https://github.com/Brady1052/API-Project-1">Click Here to see Repository</a>
-            <a href=" https://brady1052.github.io/API-Project-1/"> <img id="spotiweather" src="Images/Project 1.png"
+            <a href="https://brady1052.github.io/API-Project-1/"> <img id="spotiweather" src={spotiweather}
                     alt="first work portfolio"/></a>
         </div>
     </div>
@@ -44,7 +48,7 @@ export default function Portfolio() {
         <a href="https://github.com/Brady1052/Weather-Dashboard">Click Here to see Repository</a>
         
         <a href="https://brady1052.github.io/Weather-Dashboard/"><img id="weather-dashboard"
-                src="Images/Weather Dashboard.png" alt="Weather Dashboard Image"/></a>
+                src={weatherDashboard} alt="Weather Dashboard Image"/></a>
         </div>
     </div>
 
@@ -55,7 +59,7 @@ export default function Portfolio() {
          <a href="https://github.com/Brady1052/Work-Day-Scheduler">Click Here to see Repository</a>
         
         <a href="https://brady1052.github.io/Work-Day-Scheduler/"><img id="workDayimg"
-                src="Images/Work Day Scheduler.png" alt="Work Day Scheduler"/></a>
+                src={workDayScheduler} alt="Work Day Scheduler"/></a>
                 </div>
     </div>
     </div>
