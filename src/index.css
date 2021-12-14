@@ -16,8 +16,23 @@ code {
   max-width: 5%;
 }
 
+#LinkedIn:hover{
+  transform: scale(1.5);
+}
+
 #GitHub{
   max-width: 7%;
+}
+
+#GitHub:hover{
+transform: scale(1.5);
+}
+
+#facebook {
+  max-width: 5%;
+}
+#facebook:hover {
+  transform: scale(1.5);
 }
 
 .flex-container {
