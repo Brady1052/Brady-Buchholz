@@ -5,6 +5,7 @@ import weatherDashboard from '../../images/Weather_Dashboard.png'
 import workDayScheduler from '../../images/Work_Day_Scheduler.png'
 import noteTaker from '../../images/Note_Taker.png'
 import fitnessTracker from '../../images/Workout_Tracker.png'
+import employeeManagementSystem from '../../images/Employee_Management_System.png'
 export default function Portfolio() {
   return (
     <div>
@@ -54,6 +55,17 @@ export default function Portfolio() {
     </div>
 
     <div>
+    <h3>Employee Management System</h3>
+    <p>The Employee Management System allows users to create, add, and update employees, roles, and departments within a company. Click the image for a brief demonstration of the app.<br>
+     </br>   Technologies used: npm Inquirer, mySQL2, and Javascript
+     </p>
+     <div class="firstProject"/>
+     <a href="https://github.com/Brady1052/Employee-Management-System">Click Here to see Repository</a>
+     <a href="https://watch.screencastify.com/v/lqIrv81yhnMIpUErRmmc">
+     <img id="em_System" src={employeeManagementSystem} alt="Employee Management System"/></a>
+</div>
+
+    <div>
         <h3>Work Day Scheduler</h3>
         <p> Below is an application I made for scheduling your day in one hour increments</p>
         <div class="firstProject">
@@ -65,7 +77,7 @@ export default function Portfolio() {
     </div>
 <div>
     <h3>Note Taker</h3>
-    <p>This application allows the user to add and save notes to the taker.<br>
+    <p>This application allows the user to add and save notes to the note taker.<br>
      </br>   Technologies used: Express, Heroku, JSON.
      </p>
      <div class="firstProject"/>

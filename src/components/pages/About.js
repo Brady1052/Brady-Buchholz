@@ -6,7 +6,7 @@ export default function About() {
       <h1>Brady Buchholz</h1>
       <p>
       <img id="profilePicture"
-        src="https://media-exp1.licdn.com/dms/image/C4E03AQGWzMq8ajwOWA/profile-displayphoto-shrink_800_800/0/1632607521954?e=1640822400&v=beta&t=uAu9M5kBZoUWPbINIqt3eImMaccuyc0qjyU5BX643Ao"
+        src="https://media-exp1.licdn.com/dms/image/C4E03AQGWzMq8ajwOWA/profile-displayphoto-shrink_400_400/0/1632607521954?e=1646870400&v=beta&t=oeZwwSIe9urhTXVcmkeoc7KEKLFW69pxxT3RE3CGNko"
         alt="Developer"/>
          <div>
         <h1 id="aboutmeheader">About Me</h1>

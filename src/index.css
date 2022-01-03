@@ -132,6 +132,12 @@ transform: scale(1.5);
       margin: auto;
       display:block; 
   }
+  #em_System {
+    width:55%;          
+    height:auto;  
+    margin: auto;
+    display:block;
+  }
   #work{
       text-align: center;
   }
