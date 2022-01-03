@@ -9,6 +9,7 @@ import employeeManagementSystem from '../../images/Employee_Management_System.pn
 export default function Portfolio() {
   return (
     <div>
+        <br></br>
   <h1 id= "firstWorkText">The Movie DB</h1>
         <p>Below is "The Movie DB". An application created by my group and I that allows users to see and leave reviews for movies.
             The application allows users to create an account, and/or login if they want to leave reviews. Below is a link to the website, and our repository. 
@@ -22,6 +23,7 @@ export default function Portfolio() {
     
     </div>
     <div>
+        <br></br>
         <h3 id="firstWorktxt">SpotiWeather</h3>
 
         <p>Below is a application created by my group and I that allows users to search for
@@ -41,7 +43,7 @@ export default function Portfolio() {
     </div>
 
     <div>
-        
+        <br></br>
         <h3>Weather Dashboard</h3>
         <p>This application was created by fetching the Open Weather API, and
             displaying it's data to the user.
@@ -55,6 +57,7 @@ export default function Portfolio() {
     </div>
 
     <div>
+        <br></br>
     <h3>Employee Management System</h3>
     <p>The Employee Management System allows users to create, add, and update employees, roles, and departments within a company. Click the image for a brief demonstration of the app.<br>
      </br>   Technologies used: npm Inquirer, mySQL2, and Javascript
@@ -66,6 +69,7 @@ export default function Portfolio() {
 </div>
 
     <div>
+        <br></br>
         <h3>Work Day Scheduler</h3>
         <p> Below is an application I made for scheduling your day in one hour increments</p>
         <div class="firstProject">
@@ -76,6 +80,7 @@ export default function Portfolio() {
                 </div>
     </div>
 <div>
+    <br></br>
     <h3>Note Taker</h3>
     <p>This application allows the user to add and save notes to the note taker.<br>
      </br>   Technologies used: Express, Heroku, JSON.
@@ -87,6 +92,7 @@ export default function Portfolio() {
     
 </div>
 <div>
+    <br></br>
     <h3>Fitness Tracker</h3>
     <p>"For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the Develop folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express." - Courtesy of The Ohio State Full Stack Bootcamp <br>
      </br> 
