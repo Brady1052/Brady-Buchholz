@@ -77,6 +77,10 @@ transform: scale(1.5);
   margin-left: 10px;    
   text-align: center;
   }
+  #certificateImg{
+    max-width: 40%;
+  }
+
   #navbar {
    position: relative;
    left:2px;
