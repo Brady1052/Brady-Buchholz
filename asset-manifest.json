@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.37242e9d.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.458837f9.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.458837f9.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.8ef863f8.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.d38919f1.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.d38919f1.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fc37ac9d.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fc37ac9d.js.map",
     "static/js/2.de17fac7.chunk.js": "/React-Portfolio/static/js/2.de17fac7.chunk.js",
@@ -10,19 +10,21 @@
     "static/js/3.91b5d926.chunk.js": "/React-Portfolio/static/js/3.91b5d926.chunk.js",
     "static/js/3.91b5d926.chunk.js.map": "/React-Portfolio/static/js/3.91b5d926.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.37242e9d.chunk.css.map": "/React-Portfolio/static/css/main.37242e9d.chunk.css.map",
+    "static/css/main.8ef863f8.chunk.css.map": "/React-Portfolio/static/css/main.8ef863f8.chunk.css.map",
     "static/js/2.de17fac7.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.de17fac7.chunk.js.LICENSE.txt",
+    "static/media/Employee_Management_System.5abfd647.png": "/React-Portfolio/static/media/Employee_Management_System.5abfd647.png",
     "static/media/MovieDB.9db50ccb.png": "/React-Portfolio/static/media/MovieDB.9db50ccb.png",
     "static/media/Note_Taker.4034972a.png": "/React-Portfolio/static/media/Note_Taker.4034972a.png",
     "static/media/Project1.9c122786.png": "/React-Portfolio/static/media/Project1.9c122786.png",
-    "static/media/Weather_Dashboard.0f56bc4b.png": "/React-Portfolio/static/media/Weather_Dashboard.0f56bc4b.png",
+    "static/media/Weather_Dashboard.9a41bfc0.png": "/React-Portfolio/static/media/Weather_Dashboard.9a41bfc0.png",
     "static/media/Work_Day_Scheduler.d04494d5.png": "/React-Portfolio/static/media/Work_Day_Scheduler.d04494d5.png",
-    "static/media/Workout_Tracker.9c81daa0.png": "/React-Portfolio/static/media/Workout_Tracker.9c81daa0.png"
+    "static/media/Workout_Tracker.9c81daa0.png": "/React-Portfolio/static/media/Workout_Tracker.9c81daa0.png",
+    "static/media/bootcampCertificate.43d18ebd.png": "/React-Portfolio/static/media/bootcampCertificate.43d18ebd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fc37ac9d.js",
     "static/js/2.de17fac7.chunk.js",
-    "static/css/main.37242e9d.chunk.css",
-    "static/js/main.458837f9.chunk.js"
+    "static/css/main.8ef863f8.chunk.css",
+    "static/js/main.d38919f1.chunk.js"
   ]
 }
