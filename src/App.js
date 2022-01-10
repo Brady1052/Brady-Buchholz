@@ -4,7 +4,7 @@ import Footer from './components/Footer'
 function App() {
   return (
     <div className="App" style={{ 
-      backgroundImage: `url("https://media.istockphoto.com/photos/dark-blue-abstract-background-picture-id877787978?b=1&k=20&m=877787978&s=170667a&w=0&h=kvxvkxBm8VeFdbcbTTFS_MPhNyx2rqUEHpTLUC_vVxs=")` 
+      backgroundImage: `url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEXfv6Z9R/t9AAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=")` 
     }}>
       <PortfolioContainer />
       <Footer />

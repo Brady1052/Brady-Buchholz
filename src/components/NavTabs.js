@@ -11,6 +11,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('About')}
           // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+          id='resume'
         >
           About
         </a>
@@ -21,6 +22,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('Portfolio')}
           // Check to see if the currentPage is `Portfolio`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
+          id='resume'
         >
           Portfolio
         </a>
@@ -31,6 +33,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('Contact')}
           // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+          id='resume'
         >
           Contact
         </a>
@@ -40,8 +43,9 @@ function NavTabs({ currentPage, handlePageChange }) {
           href='https://docs.google.com/document/d/1LhqpZ4SFNWO5C8dAFpk0XvhjHeDiBHb0/edit' target='_blank'
           onClick={() => handlePageChange('Resume')}
           className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+          id='resume'
         >
-          Resume
+       Resume
         </a>
       </li>
     </ul>

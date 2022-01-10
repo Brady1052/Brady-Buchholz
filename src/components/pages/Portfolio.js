@@ -18,7 +18,7 @@ export default function Portfolio() {
             Tools / languages used: Handlebars.js, Node and Express Web Server, SQL, Get and Post Routes, Heroku, Sessions, Bcrypt (to hash the user's password in the database)
                 </p>
         <div class="firstProject">
-            <a href="https://github.com/Brady1052/Group-Project-2">Click Here to see Repository</a>
+            <a  id='repoLink'href="https://github.com/Brady1052/Group-Project-2">Click Here to see Repository</a>
             <a href="https://arcane-basin-64105.herokuapp.com/"> <img id="movie_db" src= {movieDBImage} alt="The Movie DB Screenshot"/></a>
     
     </div>
@@ -36,7 +36,7 @@ export default function Portfolio() {
         </p>
     
         <div class="firstProject">
-            <a href="https://github.com/Brady1052/API-Project-1">Click Here to see Repository</a>
+            <a id='repoLink'href="https://github.com/Brady1052/API-Project-1">Click Here to see Repository</a>
             <a href="https://brady1052.github.io/API-Project-1/"> <img id="spotiweather" src={spotiweather}
                     alt="first work portfolio"/></a>
         </div>
@@ -49,7 +49,7 @@ export default function Portfolio() {
             displaying it's data to the user.
         </p>
         <div class ="firstProject">
-        <a href="https://github.com/Brady1052/Weather-Dashboard">Click Here to see Repository</a>
+        <a id='repoLink'href="https://github.com/Brady1052/Weather-Dashboard">Click Here to see Repository</a>
         
         <a href="https://brady1052.github.io/Weather-Dashboard/"><img id="weather-dashboard"
                 src={weatherDashboard} alt="Weather Dashboard Screenshot"/></a>
@@ -63,7 +63,7 @@ export default function Portfolio() {
      </br>   Technologies used: npm Inquirer, mySQL2, and Javascript
      </p>
      <div class="firstProject"/>
-     <a href="https://github.com/Brady1052/Employee-Management-System">Click Here to see Repository</a>
+     <a id='repoLink'href="https://github.com/Brady1052/Employee-Management-System">Click Here to see Repository</a>
      <a href="https://watch.screencastify.com/v/lqIrv81yhnMIpUErRmmc">
      <img id="em_System" src={employeeManagementSystem} alt="Employee Management System"/></a>
 </div>
@@ -73,7 +73,7 @@ export default function Portfolio() {
         <h3>Work Day Scheduler</h3>
         <p> Below is an application I made for scheduling your day in one hour increments</p>
         <div class="firstProject">
-         <a href="https://github.com/Brady1052/Work-Day-Scheduler">Click Here to see Repository</a>
+         <a id='repoLink'href="https://github.com/Brady1052/Work-Day-Scheduler">Click Here to see Repository</a>
         
         <a href="https://brady1052.github.io/Work-Day-Scheduler/"><img id="workDayimg"
                 src={workDayScheduler} alt="Work Day Scheduler"/></a>
@@ -86,7 +86,7 @@ export default function Portfolio() {
      </br>   Technologies used: Express, Heroku, JSON.
      </p>
      <div class="firstProject"/>
-     <a href="https://github.com/Brady1052/Note-Taker">Click Here to see Repository</a>
+     <a id='repoLink'href="https://github.com/Brady1052/Note-Taker">Click Here to see Repository</a>
      <a href="https://note-take-brady.herokuapp.com/">
      <img id="note_taker" src={noteTaker} alt="Note Taker App"/></a>
     
@@ -98,7 +98,7 @@ export default function Portfolio() {
      </br> 
      </p>
      <div class="firstProject"/>
-     <a href="https://github.com/Brady1052/Fitness-Tracker">Click Here to see Repository</a>
+     <a id='repoLink'href="https://github.com/Brady1052/Fitness-Tracker">Click Here to see Repository</a>
      <a href=" https://sheltered-tor-12441.herokuapp.com/">
      <img id="note_taker" src={fitnessTracker} alt="Note Taker App"/></a>
 </div>

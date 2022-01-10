@@ -1,11 +1,10 @@
 .App {
-  color: white;
+  color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
-
 
 
 body {
@@ -21,9 +20,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#resume{
+color: black
+}
 
+#resume:hover{
+
+}
 #LinkedIn{
   max-width: 5%;
+}
+
+#repoLink{
+font-size: 175%;
+color: #8B4513;
 }
 
 #LinkedIn:hover{
@@ -52,28 +62,28 @@ transform: scale(1.5);
   }
   
   h3 {
-  font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Inter', sans-serif;
   text-align: center;
   }
   p {
-    font-family: 'Italiana', serif;
+    font-family: 'Inter', sans-serif;
       text-align: center;
   }
   
   h4 {
-   font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Inter', sans-serif;
       text-align: center;
   }
   
   p {
-  font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Inter', sans-serif;
   margin-left: 5%;    
   margin-right: 5%
   /* margin-right: 10%; */
   }
   
   h1 {
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Inter', sans-serif;
   margin-left: 10px;    
   text-align: center;
   }
@@ -81,6 +91,27 @@ transform: scale(1.5);
     max-width: 45%;
   }
 
+  #gitHub{
+    max-width: 70%;
+    margin-top: 1%
+  }
+
+  #gitHub:hover{
+    transform: scale(1.1)
+  }
+
+  #linkedIn{
+    max-width: 70%;
+    margin-top: 1%;
+  }
+
+  #linkedIn:hover{
+    transform: scale(1.1)
+  }
+
+  #linkedInh1{
+    margin-top: 3%;
+  }
   #navbar {
    position: relative;
    left:2px;
@@ -176,10 +207,18 @@ transform: scale(1.5);
   
   #phoneNumber {
       text-align: center;
+      font-size: 300%;
+
   }
   
   #emailAddress {
       text-align: center;
+      font-size: 300%;
+      color: #8B4513;
+  }
+
+  #emailAddress:hover {
+    color:white
   }
   
   @media screen and (max-width: 768px) {
