@@ -22,6 +22,7 @@ code {
 }
 #resume{
 color: black
+
 }
 
 #resume:hover{
@@ -148,6 +149,7 @@ transform: scale(1.5);
   height:auto;  
   margin: auto;
   display:block;
+  /* margin-bottom: 2rem; */
   }
   #movie_db{
   width:75%;
