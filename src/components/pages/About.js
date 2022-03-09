@@ -1,6 +1,6 @@
 import React from 'react';
 import BootcampCertificate from '../../images/bootcampCertificate.png'
-import ProfessionalPhoto from '../../images/Professional_Photo.jpeg'
+import ProfessionalPhoto from '../../images/Professional_Photo.png'
 
 export default function About() {
   return (
