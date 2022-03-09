@@ -40,7 +40,7 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a 
-          href='https://docs.google.com/document/d/1LhqpZ4SFNWO5C8dAFpk0XvhjHeDiBHb0/edit' target='_blank'
+          href='https://docs.google.com/document/d/1LhqpZ4SFNWO5C8dAFpk0XvhjHeDiBHb0/edit' target='_blank' rel='noreferrer'
           onClick={() => handlePageChange('Resume')}
           className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
           id='resume'
