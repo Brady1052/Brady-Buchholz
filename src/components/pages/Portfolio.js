@@ -14,9 +14,8 @@ export default function Portfolio() {
         <p>Below is "The Movie DB". An application created by my group and I that allows users to see and leave reviews for movies.
             The application allows users to create an account, and/or login if they want to leave reviews. Below is a link to the website, and our repository. 
             </p>
-            <p>
-            Tools / languages used: Handlebars.js, Node and Express Web Server, SQL, Get and Post Routes, Heroku, Sessions, Bcrypt (to hash the user's password in the database)
-                </p>
+            <strong>   
+           Technologies used:</strong> Handlebars.js, Node and Express Web Server, SQL, Get and Post Routes, Heroku, Sessions, Bcrypt (to hash the user's password in the database)
         <div class="firstProject">
             <a  id='repoLink'href="https://github.com/Brady1052/Group-Project-2">Click Here to see Repository</a>
             <a href="https://arcane-basin-64105.herokuapp.com/"> <img id="movie_db" src= {movieDBImage} alt="The Movie DB Screenshot"/></a>
@@ -59,9 +58,8 @@ export default function Portfolio() {
     <div>
         <br></br>
     <h3>Employee Management System</h3>
-    <p>The Employee Management System allows users to create, add, and update employees, roles, and departments within a company. Click the image for a brief demonstration of the app.<br>
-     </br>   Technologies used: npm Inquirer, mySQL2, and Javascript
-     </p>
+    <p>The Employee Management System allows users to create, add, and update employees, roles, and departments within a company. Click the image for a brief demonstration of the app.</p>
+      <strong> Technologies used: </strong> npm Inquirer, mySQL2, and Javascript.
      <div class="firstProject"/>
      <a id='repoLink'href="https://github.com/Brady1052/Employee-Management-System">Click Here to see Repository</a>
      <a href="https://watch.screencastify.com/v/lqIrv81yhnMIpUErRmmc">
@@ -82,9 +80,9 @@ export default function Portfolio() {
 <div>
     <br></br>
     <h3>Note Taker</h3>
-    <p>This application allows the user to add and save notes to the note taker.<br>
-     </br>   Technologies used: Express, Heroku, JSON.
-     </p>
+    <p>This application allows the user to add and save notes to the note taker.</p>
+     <strong>Technologies used: </strong>Express, Heroku, JSON.
+    
      <div class="firstProject"/>
      <a id='repoLink'href="https://github.com/Brady1052/Note-Taker">Click Here to see Repository</a>
      <a href="https://note-take-brady.herokuapp.com/">
