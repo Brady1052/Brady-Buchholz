@@ -33,7 +33,7 @@ export default function Portfolio() {
         <h3>Weather Dashboard</h3>
         <p>
           The Weather Dashboard project was created mainly as a way to gain and
-          show experience using Javascript. The app uses fetch to make a XML
+          show experience using Javascript. The app uses fetch to make XML
           request to the Open Weather API, and then uses Javscript to manipulate
           the DOM and present the data received. The entire app was written by
           me, therefore I also wrote the HTML, and CSS.
@@ -44,12 +44,15 @@ export default function Portfolio() {
           Weather Dashboard allows the user to search by city and receive
           information related to the weather in that city. The app provides
           weather reporting for that specific day, as well as provides a five
-          day forecast. To try the app yourself simply click the picture below.
+          day forecast. Weather Dashboard also saves the user's searches and
+          allows them to simply click the city in the dropwdown instead of
+          having to always type in their search request.To try the app yourself
+          simply click the picture below.
         </p>
         <strong> Technologies used: </strong>
         <p>
           HTML5, CSS, Bootstrap, Javascript(ES6), Fetch Requests, Third Party
-          API, Promise Handling, DOM Manipulation.
+          API, Promise Handling, DOM Manipulation, Local Storage
         </p>
         <div class="firstProject">
           <a
