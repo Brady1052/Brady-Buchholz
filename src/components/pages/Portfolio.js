@@ -51,7 +51,7 @@ export default function Portfolio() {
         </p>
         <strong> Technologies used: </strong>
         <p>
-          HTML5, CSS, Bootstrap, Javascript(ES6), Fetch Requests, Third Party
+          HTML5, CSS, Bootstrap, Javascript(ES6), Fetch Requests, Open Weather
           API, Promise Handling, DOM Manipulation, Local Storage
         </p>
         <div class="firstProject">
