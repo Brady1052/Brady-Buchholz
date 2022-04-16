@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.814aa217.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.a16d97bd.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.a16d97bd.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.df06ac3e.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.2e924988.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.2e924988.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.fc37ac9d.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.fc37ac9d.js.map",
     "static/js/2.de17fac7.chunk.js": "/React-Portfolio/static/js/2.de17fac7.chunk.js",
@@ -10,13 +10,12 @@
     "static/js/3.91b5d926.chunk.js": "/React-Portfolio/static/js/3.91b5d926.chunk.js",
     "static/js/3.91b5d926.chunk.js.map": "/React-Portfolio/static/js/3.91b5d926.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.814aa217.chunk.css.map": "/React-Portfolio/static/css/main.814aa217.chunk.css.map",
+    "static/css/main.df06ac3e.chunk.css.map": "/React-Portfolio/static/css/main.df06ac3e.chunk.css.map",
     "static/js/2.de17fac7.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.de17fac7.chunk.js.LICENSE.txt",
     "static/media/Employee_Management_System.5abfd647.png": "/React-Portfolio/static/media/Employee_Management_System.5abfd647.png",
     "static/media/MovieDB.9db50ccb.png": "/React-Portfolio/static/media/MovieDB.9db50ccb.png",
     "static/media/Note_Taker.4034972a.png": "/React-Portfolio/static/media/Note_Taker.4034972a.png",
     "static/media/Professional_Photo.b29633a8.png": "/React-Portfolio/static/media/Professional_Photo.b29633a8.png",
-    "static/media/Project1.9c122786.png": "/React-Portfolio/static/media/Project1.9c122786.png",
     "static/media/Weather_Dashboard.9a41bfc0.png": "/React-Portfolio/static/media/Weather_Dashboard.9a41bfc0.png",
     "static/media/Work_Day_Scheduler.d04494d5.png": "/React-Portfolio/static/media/Work_Day_Scheduler.d04494d5.png",
     "static/media/Workout_Tracker.9c81daa0.png": "/React-Portfolio/static/media/Workout_Tracker.9c81daa0.png",
@@ -25,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.fc37ac9d.js",
     "static/js/2.de17fac7.chunk.js",
-    "static/css/main.814aa217.chunk.css",
-    "static/js/main.a16d97bd.chunk.js"
+    "static/css/main.df06ac3e.chunk.css",
+    "static/js/main.2e924988.chunk.js"
   ]
 }
