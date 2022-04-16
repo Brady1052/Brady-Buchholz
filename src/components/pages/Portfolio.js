@@ -34,9 +34,9 @@ export default function Portfolio() {
         <p>
           The Weather Dashboard project was created mainly as a way to gain and
           show experience using Javascript. The app uses fetch to make XML
-          request to the Open Weather API, and then uses Javscript to manipulate
-          the DOM and present the data received. The entire app was written by
-          me, therefore I also wrote the HTML, and CSS.
+          request to the Open Weather API, and then uses Javascript to
+          manipulate the DOM and present the data received. The entire app was
+          written by me, therefore I also wrote the HTML, and CSS.
         </p>
         <strong>What the app does:</strong>
         <p>
