@@ -6,44 +6,38 @@
   background-size: cover;
 }
 
-
 body {
   margin: 0;
   font-family: sans-serif;
-
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-#resume{
-color: black
-
+#resume {
+  color: black;
 }
 
-#resume:hover{
-
-}
-#LinkedIn{
+#LinkedIn {
   max-width: 5%;
 }
 
-#repoLink{
-font-size: 175%;
-color: #8B4513;
+#repoLink {
+  font-size: 175%;
+  color: #8b4513;
 }
 
-#LinkedIn:hover{
+#LinkedIn:hover {
   transform: scale(1.5);
 }
 
-#GitHub{
+#GitHub {
   max-width: 7%;
 }
 
-#GitHub:hover{
-transform: scale(1.5);
+#GitHub:hover {
+  transform: scale(1.5);
 }
 
 #facebook {
@@ -54,188 +48,191 @@ transform: scale(1.5);
 }
 
 .flex-container {
-  display:flex;
-  flex-direction:column; 
-  position:relative;
-  }
-  
-  h3 {
-    font-family: 'Inter', sans-serif;
-  text-align: center;
-  }
-  p {
-    font-family: 'Inter', sans-serif;
-      text-align: center;
-  }
-  
-  h4 {
-    font-family: 'Inter', sans-serif;
-      text-align: center;
-  }
-  
-  p {
-    font-family: 'Inter', sans-serif;
-  margin-left: 5%;    
-  margin-right: 5%
-  /* margin-right: 10%; */
-  }
-  
-  h1 {
-  font-family: 'Inter', sans-serif;
-  margin-left: 10px;    
-  text-align: center;
-  }
-  #certificateImg{
-    max-width: 45%;
-  }
-
-  #gitHub{
-    max-width: 70%;
-    margin-top: 1%
-  }
-
-  #gitHub:hover{
-    transform: scale(1.1)
-  }
-
-  #linkedIn{
-    max-width: 70%;
-    margin-top: 1%;
-  }
-
-  #linkedIn:hover{
-    transform: scale(1.1)
-  }
-
-  #linkedInh1{
-    margin-top: 3%;
-  }
-  #navbar {
-   position: relative;
-   left:2px;
-  }
-  #profilePicture {
-      width: 15%;          
-      height:auto;  
-      border-radius:50%;
-  }
-  
-  #profilepicBackground {
-      text-align: right;
-  }
-  
-  #headerBackgroundImage {
-  width: 1550px;
-  height:175px;
+  display: flex;
+  flex-direction: column;
   position: relative;
-  bottom:200px;
-  z-index:-2;
-  }
-  
-.tools{
-  font-style:italic
 }
 
-  #name {
-  position: relative;
-  top:40px; 
-  right:6px;  
-  background-color: black;  
-  color:red;
-  text-decoration:underline;
-  }
-  
-  #spotiweather{   
-  width:65%;          
-  height:auto;  
-  margin: auto;
-  display:block;
-  /* margin-bottom: 2rem; */
-  }
-  #movie_db{
-  width:75%;
-  height:auto;  
-  margin: auto;
-  display:block;
-  }
-  
-  #weather-dashboard{
-  width:55%;          
-  height:auto;  
-  margin: auto;
-  display:block; 
-  }
-  
-  #workDayimg {
-      width:55%;          
-      height:auto;  
-      margin: auto;
-      display:block; 
-  }
-  #em_System {
-    width:55%;          
-    height:auto;  
-    margin: auto;
-    display:block;
-  }
-  #work{
-      text-align: center;
-  }
-  
-  .firstProject{
-      display:flex;
-      flex-direction:column;
-      justify-content: center;
-      align-items: center;
-  }
-  
-  #firstWorktxt {
-      text-align: center;
-  }
-  
-
-  #note_taker{
-    width:55%;          
-    height:auto;  
-    margin: auto;
-    display:block; 
-  }
-  #aboutmeheader {
+h3 {
+  font-family: 'Inter', sans-serif;
   text-align: center;
-  }
-  
-  #pAboutMe {
-      text-align: center;
-      font-family: sans-serif;
-  }
-  
-  #phoneNumber {
-      text-align: center;
-      font-size: 300%;
+}
+p {
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
 
-  }
-  
-  #emailAddress {
-      text-align: center;
-      font-size: 300%;
-      color: #8B4513;
-  }
+h4 {
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
 
-  #emailAddress:hover {
-    color:white
+p {
+  font-family: 'Inter', sans-serif;
+  margin-left: 5%;
+  margin-right: 5%;
+  /* margin-right: 10%; */
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  margin-left: 10px;
+  text-align: center;
+}
+#certificateImg {
+  max-width: 45%;
+}
+
+#gitHub {
+  max-width: 70%;
+  margin-top: 1%;
+}
+
+#gitHub:hover {
+  transform: scale(1.1);
+}
+
+#linkedIn {
+  max-width: 70%;
+  margin-top: 1%;
+}
+
+#linkedIn:hover {
+  transform: scale(1.1);
+}
+
+#linkedInh1 {
+  margin-top: 3%;
+}
+#navbar {
+  position: relative;
+  left: 2px;
+}
+#profilePicture {
+  width: 15%;
+  height: auto;
+  border-radius: 50%;
+}
+
+#profilepicBackground {
+  text-align: right;
+}
+
+#headerBackgroundImage {
+  width: 1550px;
+  height: 175px;
+  position: relative;
+  bottom: 200px;
+  z-index: -2;
+}
+
+.tools {
+  font-style: italic;
+}
+
+#name {
+  position: relative;
+  top: 40px;
+  right: 6px;
+  background-color: black;
+  color: red;
+  text-decoration: underline;
+}
+
+#spotiweather {
+  width: 65%;
+  height: auto;
+  margin: auto;
+  display: block;
+  border: 5px solid black;
+}
+#movie_db {
+  width: 75%;
+  height: auto;
+  margin: auto;
+  display: block;
+  border: 5px solid black;
+}
+
+#weather-dashboard {
+  width: 55%;
+  height: auto;
+  margin: auto;
+  display: block;
+  border: 5px solid black;
+}
+
+#workDayimg {
+  width: 55%;
+  height: auto;
+  margin: auto;
+  display: block;
+  border: 5px solid black;
+}
+#em_System {
+  width: 55%;
+  height: auto;
+  margin: auto;
+  display: block;
+  border: 5px solid black;
+}
+#work {
+  text-align: center;
+}
+
+.firstProject {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#firstWorktxt {
+  text-align: center;
+}
+
+#note_taker {
+  width: 55%;
+  height: auto;
+  margin: auto;
+  display: block;
+  border: 5px solid black;
+}
+#aboutmeheader {
+  text-align: center;
+}
+
+#pAboutMe {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#phoneNumber {
+  text-align: center;
+  font-size: 300%;
+}
+
+#emailAddress {
+  text-align: center;
+  font-size: 300%;
+  color: #8b4513;
+}
+
+#emailAddress:hover {
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  main,
+  header {
+    flex-direction: column;
   }
-  
-  @media screen and (max-width: 768px) {
-      main,
-      header {
-        flex-direction: column;
-      }
-    }
-    
-  #form {
-    max-width: 50%;
-    margin-left: 25%;
-  }
-  #logos {
-    margin-bottom: .8%;
-  }
+}
+
+#form {
+  max-width: 50%;
+  margin-left: 25%;
+}
+#logos {
+  margin-bottom: 0.8%;
+}
