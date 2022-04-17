@@ -17,11 +17,11 @@ export default function About() {
             Engineering. The technologies taught in the bootcamp were HTML5,
             CSS3, JavaScript, Node js, Express, React js, Bootstrap, JQuery,
             MySQL, GraphQL, and MongoDB. I continue to grow my skills as a
-            developer every day as development is more than just a career path,
-            but a hobby and passion of mine. I enjoy working on and learning web
-            development on my own and continue to take courses, and work on
-            projects every week. I encourage anybody interested in finding out
-            more about my work to check out my portfolio section.
+            developer every day as web development is more than just a career
+            path, but a hobby and passion of mine. I enjoy working on and
+            learning web development on my own and continue to take courses, and
+            work on projects every week. I encourage anybody interested in
+            finding out more about my work to check out my portfolio section.
           </p>
           <img
             id="certificateImg"
