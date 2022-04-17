@@ -11,20 +11,22 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('About')}
           // Check to see if the currentPage is `About`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
-          id='resume'
+          id="resume"
         >
           About
         </a>
       </li>
       <li className="nav-item">
         <a
-          href="#portfolio"
-          onClick={() => handlePageChange('Portfolio')}
-          // Check to see if the currentPage is `Portfolio`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
-          className={currentPage === 'Portfolio' ? 'nav-link active' : 'nav-link'}
-          id='resume'
+          href="#projects"
+          onClick={() => handlePageChange('Projects')}
+          // Check to see if the currentPage is `Projects`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
+          className={
+            currentPage === 'Projects' ? 'nav-link active' : 'nav-link'
+          }
+          id="resume"
         >
-          Portfolio
+          Projects
         </a>
       </li>
       <li className="nav-item">
@@ -33,19 +35,21 @@ function NavTabs({ currentPage, handlePageChange }) {
           onClick={() => handlePageChange('Contact')}
           // Check to see if the currentPage is `Contact`, and if so we use the active link class from bootstrap. Otherwise, we set it to a normal nav-link
           className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
-          id='resume'
+          id="resume"
         >
           Contact
         </a>
       </li>
       <li className="nav-item">
-        <a 
-          href='https://docs.google.com/document/d/1LhqpZ4SFNWO5C8dAFpk0XvhjHeDiBHb0/edit' target='_blank' rel='noreferrer'
+        <a
+          href="https://docs.google.com/document/d/1LhqpZ4SFNWO5C8dAFpk0XvhjHeDiBHb0/edit"
+          target="_blank"
+          rel="noreferrer"
           onClick={() => handlePageChange('Resume')}
           className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
-          id='resume'
+          id="resume"
         >
-       Resume
+          Resume
         </a>
       </li>
     </ul>

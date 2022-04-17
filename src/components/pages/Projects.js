@@ -5,7 +5,7 @@ import workDayScheduler from '../../images/Work_Day_Scheduler.png';
 import noteTaker from '../../images/Note_Taker.png';
 import fitnessTracker from '../../images/Workout_Tracker.png';
 import employeeManagementSystem from '../../images/Employee_Management_System.png';
-export default function Portfolio() {
+export default function Projects() {
   return (
     <div id="projectContainer">
       {/* Weather Dashboard container */}
