@@ -8,7 +8,7 @@ https://brady1052.github.io/Brady-Buchholz/
 
 ## Description
 
-A professional portfolio with an 'About' page, 'Portfolio' page, contact page, and resume link. The portfolio was built with react js.
+A professional portfolio with an 'About' page, 'Projects' page, contact page, and resume link. The portfolio was built with react js.
 
 ## Technologies Used
 
