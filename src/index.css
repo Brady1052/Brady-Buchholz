@@ -139,15 +139,8 @@ h1 {
   text-decoration: underline;
 }
 
-#spotiweather {
-  width: 65%;
-  height: auto;
-  margin: auto;
-  display: block;
-  border: 5px solid black;
-}
 #movie_db {
-  width: 75%;
+  width: 55%;
   height: auto;
   margin: auto;
   display: block;
@@ -155,7 +148,7 @@ h1 {
 }
 
 #weather-dashboard {
-  width: 55%;
+  width: 65%;
   height: auto;
   margin: auto;
   display: block;
