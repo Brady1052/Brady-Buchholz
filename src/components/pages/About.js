@@ -21,7 +21,7 @@ export default function About() {
             path, but a hobby and passion of mine. I enjoy working on and
             learning web development on my own and continue to take courses, and
             work on projects every week. I encourage anybody interested in
-            finding out more about my work to check out my portfolio section.
+            finding out more about my work to check out my project section.
           </p>
           <img
             id="certificateImg"
