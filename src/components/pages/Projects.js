@@ -1,7 +1,7 @@
 import React from 'react';
 import movieDBImage from '../../images/MovieDB.png';
 import weatherDashboard from '../../images/Weather_Dashboard.png';
-import workDayScheduler from '../../images/Work_Day_Scheduler.png';
+import workDayScheduler from '../../images/Work-Day-Scheduler.png';
 import noteTaker from '../../images/Note_Taker.png';
 import fitnessTracker from '../../images/Workout_Tracker.png';
 import employeeManagementSystem from '../../images/Employee_Management_System.png';
@@ -11,7 +11,7 @@ export default function Projects() {
       {/* Weather Dashboard container */}
       <div id="weatherDashboardContainer">
         <br></br>
-        <h3>Weather Dashboard</h3>
+        <h1>Weather Dashboard</h1>
         <p>
           The Weather Dashboard project was created mainly as a way to gain and
           show experience using Javascript. The app uses fetch to make XML
@@ -29,7 +29,7 @@ export default function Projects() {
           having to always type in their search request.To try the app yourself
           simply click the picture below.
         </p>
-        <strong> Technologies used: </strong>
+        <strong> Technologies Used: </strong>
         <p>
           HTML5, CSS, Bootstrap, Javascript(ES6), Fetch Requests, Open Weather
           API, Promise Handling, DOM Manipulation, Local Storage
@@ -56,9 +56,11 @@ export default function Projects() {
           allows users to create an account, and/or login if they want to leave
           reviews. Below is a link to the website, and our repository.
         </p>
-        <strong>Technologies used:</strong> Handlebars.js, Node and Express Web
-        Server, SQL, Get and Post Routes, Heroku, Sessions, Bcrypt (to hash the
-        user's password in the database)
+        <strong>Technologies Used:</strong>{' '}
+        <p>
+          Handlebars.js, Node and Express Web Server, SQL, Get and Post Routes,
+          Heroku, Sessions, Bcrypt
+        </p>
         <div class="firstProject">
           <a id="repoLink" href="https://github.com/Brady1052/Group-Project-2">
             Click Here to see Repository
@@ -76,11 +78,24 @@ export default function Projects() {
       <br></br>
       {/* Work Day Scheduler Container */}
       <div id="Work Day Scheduler Container">
-        <h3>Work Day Scheduler</h3>
+        <h1>Work Day Scheduler</h1>
         <p>
           {' '}
-          Below is an application I made for scheduling your day in one hour
-          increments
+          The work day scheduler was created as a way to gain and show
+          experience using primarily JQuery, and Bootstrap. The app's front end
+          was primarily created using Bootstrap. Then with the help of Jquery
+          and vanilla Javascript allows the user to click on different time
+          blocks, enter their schedule for that hour, and then save it for when
+          they come back. Each hour has a different color based on what the time
+          is. For example, the photo below was taken around noon. The time block
+          sectioned out for 12 o'clock is red. The time blocks that have already
+          passed are white, and the time blocks that are in the future are
+          green.
+        </p>
+        <strong>Technologies Used:</strong>
+        <p>
+          HTML, CSS, Bootstrap, Jquery, Javascript, DOM Manipulation(primarily
+          w/Jquery), Local Storage
         </p>
         <div class="firstProject">
           <a
@@ -102,7 +117,7 @@ export default function Projects() {
       <br></br>
       {/* Employee Managment System Container */}
       <div id="emsContainer">
-        <h3>Employee Management System</h3>
+        <h1>Employee Management System</h1>
         <p>
           The Employee Management System allows users to create, add, and update
           employees, roles, and departments within a company. Click the image
@@ -126,7 +141,7 @@ export default function Projects() {
         </a>
         <br></br>
         <div id="noteTakerContainer">
-          <h3>Note Taker</h3>
+          <h1>Note Taker</h1>
           <p>
             This application allows the user to add and save notes to the note
             taker.
@@ -142,7 +157,7 @@ export default function Projects() {
         </div>
         <br></br>
         <div id="fitnessTrackerContainer">
-          <h3>Fitness Tracker</h3>
+          <h1>Fitness Tracker</h1>
           <p>
             "For this assignment, you'll create a workout tracker. You have
             already been provided with the front end code in the Develop folder.
