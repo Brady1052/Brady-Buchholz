@@ -37,14 +37,18 @@ export default function Projects() {
         <a id="repoLink" href="https://github.com/Brady1052/Weather-Dashboard">
           Click Here to see Repository
         </a>
-
-        <a href="https://brady1052.github.io/Weather-Dashboard/">
-          <img
-            id="weather-dashboard"
-            src={weatherDashboard}
-            alt="Weather Dashboard Screenshot"
-          />
-        </a>
+        <div>
+          <a
+            id="weather-dashboard-anchor"
+            href="https://brady1052.github.io/Weather-Dashboard/"
+          >
+            <img
+              id="weather-dashboard"
+              src={weatherDashboard}
+              alt="Weather Dashboard Screenshot"
+            />
+          </a>
+        </div>
       </div>
       <br></br>
       {/* MovieDB Container */}
@@ -65,7 +69,10 @@ export default function Projects() {
           <a id="repoLink" href="https://github.com/Brady1052/Group-Project-2">
             Click Here to see Repository
           </a>
-          <a href="https://arcane-basin-64105.herokuapp.com/">
+          <a
+            id="movie_db_anchor"
+            href="https://arcane-basin-64105.herokuapp.com/"
+          >
             {' '}
             <img
               id="movie_db"
@@ -105,7 +112,10 @@ export default function Projects() {
             Click Here to see Repository
           </a>
 
-          <a href="https://brady1052.github.io/Work-Day-Scheduler/">
+          <a
+            id="work-day-anchor"
+            href="https://brady1052.github.io/Work-Day-Scheduler/"
+          >
             <img
               id="workDayimg"
               src={workDayScheduler}
@@ -132,47 +142,58 @@ export default function Projects() {
         >
           Click Here to see Repository
         </a>
-        <a href="https://watch.screencastify.com/v/lqIrv81yhnMIpUErRmmc">
-          <img
-            id="em_System"
-            src={employeeManagementSystem}
-            alt="Employee Management System"
-          />
-        </a>
-        <br></br>
-        <div id="noteTakerContainer">
-          <h1>Note Taker</h1>
-          <p>
-            This application allows the user to add and save notes to the note
-            taker.
-          </p>
-          <strong>Technologies used: </strong>Express, Heroku, JSON.
-          <div class="firstProject" />
-          <a id="repoLink" href="https://github.com/Brady1052/Note-Taker">
-            Click Here to see Repository
+        <div>
+          <a
+            id="em-system-anchor"
+            href="https://watch.screencastify.com/v/lqIrv81yhnMIpUErRmmc"
+          >
+            <img
+              id="em_System"
+              src={employeeManagementSystem}
+              alt="Employee Management System"
+            />
           </a>
-          <a href="https://note-take-brady.herokuapp.com/">
+        </div>
+      </div>
+      <br></br>
+      <div id="noteTakerContainer">
+        <h1>Note Taker</h1>
+        <p>
+          This application allows the user to add and save notes to the note
+          taker.
+        </p>
+        <strong>Technologies used: </strong>Express, Heroku, JSON.
+        <div class="firstProject" />
+        <a id="repoLink" href="https://github.com/Brady1052/Note-Taker">
+          Click Here to see Repository
+        </a>
+        <div>
+          <a
+            id="note_taker_anchor"
+            href="https://note-take-brady.herokuapp.com/"
+          >
             <img id="note_taker" src={noteTaker} alt="Note Taker App" />
           </a>
         </div>
-        <br></br>
-        <div id="fitnessTrackerContainer">
-          <h1>Fitness Tracker</h1>
-          <p>
-            "For this assignment, you'll create a workout tracker. You have
-            already been provided with the front end code in the Develop folder.
-            This assignment will require you to create Mongo database with a
-            Mongoose schema and handle routes with Express." - Courtesy of The
-            Ohio State Full Stack Bootcamp <br></br>
-          </p>
-          <div class="firstProject" />
-          <a id="repoLink" href="https://github.com/Brady1052/Fitness-Tracker">
-            Click Here to see Repository
-          </a>
-          <a href=" https://sheltered-tor-12441.herokuapp.com/">
-            <img id="note_taker" src={fitnessTracker} alt="Note Taker App" />
-          </a>
-        </div>
+      </div>
+      <br></br>
+      <div id="fitnessTrackerContainer">
+        <h1>Fitness Tracker</h1>
+        <p>
+          "For this assignment, you'll create a workout tracker. You have
+          already been provided with the front end code in the Develop folder.
+          This assignment will require you to create Mongo database with a
+          Mongoose schema and handle routes with Express." - Courtesy of The
+          Ohio State Full Stack Bootcamp <br></br>
+        </p>
+        <div class="firstProject" />
+        <a id="repoLink" href="https://github.com/Brady1052/Fitness-Tracker">
+          Click Here to see Repository
+        </a>
+        <div></div>
+        <a href=" https://sheltered-tor-12441.herokuapp.com/">
+          <img id="note_taker" src={fitnessTracker} alt="Note Taker App" />
+        </a>
       </div>
     </div>
   );

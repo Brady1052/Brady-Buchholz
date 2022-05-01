@@ -15,6 +15,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.projectAtag {
+  width: 15%;
+}
+
 #resume {
   color: black;
 }
@@ -140,34 +145,48 @@ h1 {
 }
 
 #movie_db {
-  width: 55%;
+  width: 100%;
   height: auto;
   margin: auto;
-  display: block;
+  /* display: block; */
   border: 5px solid black;
+}
+
+#movie_db_anchor {
+  width: 55%;
 }
 
 #weather-dashboard {
   width: 65%;
   height: auto;
   margin: auto;
-  display: block;
   border: 5px solid black;
 }
 
+#weather-dashboard-anchor {
+  width: 65%;
+}
+
 #workDayimg {
-  width: 55%;
+  width: 100%;
   height: auto;
   margin: auto;
   display: block;
   border: 5px solid black;
+}
+
+#work-day-anchor {
+  width: 55%;
 }
 #em_System {
   width: 55%;
   height: auto;
   margin: auto;
-  display: block;
   border: 5px solid black;
+}
+
+#em-system-anchor {
+  width: 55%;
 }
 #work {
   text-align: center;
@@ -188,9 +207,13 @@ h1 {
   width: 55%;
   height: auto;
   margin: auto;
-  display: block;
   border: 5px solid black;
 }
+
+#note_taker_anchor {
+  width: 55%;
+}
+
 #aboutmeheader {
   text-align: center;
 }
