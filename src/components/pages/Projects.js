@@ -3,7 +3,6 @@ import movieDBImage from '../../images/MovieDB.png';
 import weatherDashboard from '../../images/Weather_Dashboard.png';
 import workDayScheduler from '../../images/Work-Day-Scheduler.png';
 import noteTaker from '../../images/Note_Taker.png';
-import fitnessTracker from '../../images/Workout_Tracker.png';
 import employeeManagementSystem from '../../images/Employee_Management_System.png';
 export default function Projects() {
   return (
@@ -133,8 +132,8 @@ export default function Projects() {
           employees, roles, and departments within a company. Click the image
           for a brief demonstration of the app.
         </p>
-        <strong> Technologies used: </strong> npm Inquirer, mySQL2, and
-        Javascript.
+        <strong> Technologies used: </strong>
+        <p>npm Inquirer, mySQL2, and Javascript</p>
         <div class="firstProject" />
         <a
           id="repoLink"
@@ -162,7 +161,8 @@ export default function Projects() {
           This application allows the user to add and save notes to the note
           taker.
         </p>
-        <strong>Technologies used: </strong>Express, Heroku, JSON.
+        <strong>Technologies used: </strong>
+        <p>Express, Heroku, JSON</p>
         <div class="firstProject" />
         <a id="repoLink" href="https://github.com/Brady1052/Note-Taker">
           Click Here to see Repository
@@ -175,25 +175,6 @@ export default function Projects() {
             <img id="note_taker" src={noteTaker} alt="Note Taker App" />
           </a>
         </div>
-      </div>
-      <br></br>
-      <div id="fitnessTrackerContainer">
-        <h1>Fitness Tracker</h1>
-        <p>
-          "For this assignment, you'll create a workout tracker. You have
-          already been provided with the front end code in the Develop folder.
-          This assignment will require you to create Mongo database with a
-          Mongoose schema and handle routes with Express." - Courtesy of The
-          Ohio State Full Stack Bootcamp <br></br>
-        </p>
-        <div class="firstProject" />
-        <a id="repoLink" href="https://github.com/Brady1052/Fitness-Tracker">
-          Click Here to see Repository
-        </a>
-        <div></div>
-        <a href=" https://sheltered-tor-12441.herokuapp.com/">
-          <img id="note_taker" src={fitnessTracker} alt="Note Taker App" />
-        </a>
       </div>
     </div>
   );
