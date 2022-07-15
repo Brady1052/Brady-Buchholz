@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/Brady-Buchholz/static/css/main.87656451.chunk.css",
-    "main.js": "/Brady-Buchholz/static/js/main.1d26d10c.chunk.js",
-    "main.js.map": "/Brady-Buchholz/static/js/main.1d26d10c.chunk.js.map",
+    "main.css": "/Brady-Buchholz/static/css/main.aaed9a6e.chunk.css",
+    "main.js": "/Brady-Buchholz/static/js/main.dd03a4e6.chunk.js",
+    "main.js.map": "/Brady-Buchholz/static/js/main.dd03a4e6.chunk.js.map",
     "runtime-main.js": "/Brady-Buchholz/static/js/runtime-main.f9dce467.js",
     "runtime-main.js.map": "/Brady-Buchholz/static/js/runtime-main.f9dce467.js.map",
-    "static/js/2.de17fac7.chunk.js": "/Brady-Buchholz/static/js/2.de17fac7.chunk.js",
-    "static/js/2.de17fac7.chunk.js.map": "/Brady-Buchholz/static/js/2.de17fac7.chunk.js.map",
+    "static/js/2.9f16f79e.chunk.js": "/Brady-Buchholz/static/js/2.9f16f79e.chunk.js",
+    "static/js/2.9f16f79e.chunk.js.map": "/Brady-Buchholz/static/js/2.9f16f79e.chunk.js.map",
     "static/js/3.91b5d926.chunk.js": "/Brady-Buchholz/static/js/3.91b5d926.chunk.js",
     "static/js/3.91b5d926.chunk.js.map": "/Brady-Buchholz/static/js/3.91b5d926.chunk.js.map",
     "index.html": "/Brady-Buchholz/index.html",
-    "static/css/main.87656451.chunk.css.map": "/Brady-Buchholz/static/css/main.87656451.chunk.css.map",
-    "static/js/2.de17fac7.chunk.js.LICENSE.txt": "/Brady-Buchholz/static/js/2.de17fac7.chunk.js.LICENSE.txt",
+    "static/css/main.aaed9a6e.chunk.css.map": "/Brady-Buchholz/static/css/main.aaed9a6e.chunk.css.map",
+    "static/js/2.9f16f79e.chunk.js.LICENSE.txt": "/Brady-Buchholz/static/js/2.9f16f79e.chunk.js.LICENSE.txt",
     "static/media/Employee_Management_System.5abfd647.png": "/Brady-Buchholz/static/media/Employee_Management_System.5abfd647.png",
     "static/media/MovieDB.9db50ccb.png": "/Brady-Buchholz/static/media/MovieDB.9db50ccb.png",
     "static/media/Note_Taker.4034972a.png": "/Brady-Buchholz/static/media/Note_Taker.4034972a.png",
     "static/media/Professional_Photo.b29633a8.png": "/Brady-Buchholz/static/media/Professional_Photo.b29633a8.png",
     "static/media/Weather_Dashboard.3bce1b81.png": "/Brady-Buchholz/static/media/Weather_Dashboard.3bce1b81.png",
     "static/media/Work-Day-Scheduler.2beb43fe.png": "/Brady-Buchholz/static/media/Work-Day-Scheduler.2beb43fe.png",
-    "static/media/bootcampCertificate.43d18ebd.png": "/Brady-Buchholz/static/media/bootcampCertificate.43d18ebd.png"
+    "static/media/bootcampCertificate.43d18ebd.png": "/Brady-Buchholz/static/media/bootcampCertificate.43d18ebd.png",
+    "static/media/target-app-screenshot.50a6c7aa.png": "/Brady-Buchholz/static/media/target-app-screenshot.50a6c7aa.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f9dce467.js",
-    "static/js/2.de17fac7.chunk.js",
-    "static/css/main.87656451.chunk.css",
-    "static/js/main.1d26d10c.chunk.js"
+    "static/js/2.9f16f79e.chunk.js",
+    "static/css/main.aaed9a6e.chunk.css",
+    "static/js/main.dd03a4e6.chunk.js"
   ]
 }
