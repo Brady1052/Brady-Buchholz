@@ -1,13 +1,32 @@
 import React from 'react';
+import Target from '../../images/target-app-screenshot.png';
 import movieDBImage from '../../images/MovieDB.png';
 import weatherDashboard from '../../images/Weather_Dashboard.png';
 import workDayScheduler from '../../images/Work-Day-Scheduler.png';
 import noteTaker from '../../images/Note_Taker.png';
 import employeeManagementSystem from '../../images/Employee_Management_System.png';
+import '../../index.css';
 export default function Projects() {
   return (
     <div id="projectContainer">
       {/* Weather Dashboard container */}
+      <div className="target-app-container">
+        <h1 className="target-header">Target</h1>
+        <p>
+          This app is a remake of a product page from Target's official website.
+          It was made from scratch using React, and CSS.
+        </p>{' '}
+        <strong>Technologies Used:</strong>
+        <p>React js, CSS</p>
+        <a id="repoLink" href="https://github.com/Brady1052/Target-app">
+          Click Here to see Repository
+        </a>
+        <div>
+          <a href=" https://brady1052.github.io/Target-app/">
+            <img src={Target} className="target-screenshot" alt="target"></img>
+          </a>
+        </div>
+      </div>
       <div id="weatherDashboardContainer">
         <br></br>
         <h1>Weather Dashboard</h1>

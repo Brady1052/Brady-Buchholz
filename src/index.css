@@ -15,7 +15,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* Target */
+.technologies-used {
+  font-weight: 900;
+}
 
+.target-screenshot {
+  max-width: 65%;
+  border: 4px solid black;
+}
+
+.target-screenshot:hover {
+  transform: scale(1.03);
+}
 .projectAtag {
   width: 15%;
 }
@@ -31,6 +43,11 @@ code {
 #repoLink {
   font-size: 175%;
   color: #8b4513;
+}
+
+#repoLink:hover {
+  text-decoration: none;
+  color: black;
 }
 
 #LinkedIn:hover {
@@ -152,6 +169,10 @@ h1 {
   border: 5px solid black;
 }
 
+#movie_db:hover {
+  transform: scale(1.03);
+}
+
 #movie_db_anchor {
   width: 55%;
 }
@@ -161,6 +182,10 @@ h1 {
   height: auto;
   margin: auto;
   border: 5px solid black;
+}
+
+#weather-dashboard:hover {
+  transform: scale(1.03);
 }
 
 #weather-dashboard-anchor {
@@ -175,6 +200,10 @@ h1 {
   border: 5px solid black;
 }
 
+#workDayimg:hover {
+  transform: scale(1.03);
+}
+
 #work-day-anchor {
   width: 55%;
 }
@@ -183,6 +212,10 @@ h1 {
   height: auto;
   margin: auto;
   border: 5px solid black;
+}
+
+#em_System:hover {
+  transform: scale(1.03);
 }
 
 #em-system-anchor {
@@ -208,6 +241,10 @@ h1 {
   height: auto;
   margin: auto;
   border: 5px solid black;
+}
+
+#note_taker:hover {
+  transform: scale(1.03);
 }
 
 #note_taker_anchor {
