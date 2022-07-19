@@ -14,7 +14,8 @@ export default function Projects() {
         <h1 className="target-header">Target</h1>
         <p>
           This app is a remake of a product page from Target's official website.
-          It was made from scratch using React, and CSS.
+          It was made from scratch using React, and CSS. It is also mobile, and
+          tablet responsive!
         </p>{' '}
         <strong>Technologies Used:</strong>
         <p>React js, CSS</p>
