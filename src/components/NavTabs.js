@@ -42,7 +42,7 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="https://docs.google.com/document/d/1LhqpZ4SFNWO5C8dAFpk0XvhjHeDiBHb0/edit"
+          href="https://docs.google.com/document/d/1AfPPrTGBjmNeHpl8ZZhd1WZRB25IKAVD/edit"
           target="_blank"
           rel="noreferrer"
           onClick={() => handlePageChange('Resume')}

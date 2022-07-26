@@ -15,6 +15,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bold {
+  font-weight: bold;
+}
 /* Target */
 .technologies-used {
   font-weight: 900;

@@ -14,11 +14,15 @@ export default function Projects() {
         <h1 className="target-header">Target</h1>
         <p>
           This app is a remake of a product page from Target's official website.
-          It was made from scratch using React, and CSS. It is also mobile, and
-          tablet responsive!
+          It was made from scratch using React, and CSS. It is also mobile
+          friendly, and I highly encourage anybody interested to view both the
+          desktop version of the app as well as the mobile version! To find the
+          original reference page simply click any of the links anywhere on the
+          page and you will be redirected to the original site. Additionally,
+          you can view the README file attached to the repository on Github!
         </p>{' '}
         <strong>Technologies Used:</strong>
-        <p>React js, CSS</p>
+        <p>React js, CSS, HTML, Javascript</p>
         <a id="repoLink" href="https://github.com/Brady1052/Target-app">
           Click Here to see Repository
         </a>

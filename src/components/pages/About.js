@@ -11,17 +11,27 @@ export default function About() {
         <div>
           <h1 id="aboutmeheader">About Me</h1>
           <p id="pAboutMe">
-            I am a recent college graduate seeking a full time front end web
-            development position. Recently I earned a certificate in full stack
-            web development from The Ohio State University College of
-            Engineering. The technologies taught in the bootcamp were HTML5,
-            CSS3, JavaScript, Node js, Express, React js, Bootstrap, JQuery,
-            MySQL, GraphQL, and MongoDB. I continue to grow my skills as a
-            developer every day as web development is more than just a career
-            path, but a hobby and passion of mine. I enjoy working on and
-            learning web development on my own and continue to take courses, and
-            work on projects every week. I encourage anybody interested in
-            finding out more about my work to check out my project section.
+            Passionate front end web developer with experience in taking web
+            designs and developing them into beautiful UI{'('}s{')'}. I am a
+            goal orientated team player who's focus is to deliver superior
+            results. Additionally I am a big fan of the UFC, and Ohio State
+            basketball. As well as both physical and mental health/ fitness! I
+            encourage anybody interested to look through my projects page and
+            contact me with any job opportunities!
+            <div>
+              <br></br>
+              <span className="bold">Versed in:</span> React/Redux, Javascript,
+              CSS, Git, API's, JQuery, HTML, and Bootstrap
+            </div>{' '}
+            <div>
+              {' '}
+              <span className="bold">Experience with: </span>Node js, Express,
+              MySQL, GraphQL, MongoDB, and Working in Agile Environments
+            </div>
+            <div>
+              <span className="bold"> Deployed Sites:</span> Heroku, GitHub
+              Pages
+            </div>
           </p>
           <img
             id="certificateImg"
