@@ -29,7 +29,7 @@ export default function About() {
               MySQL, GraphQL, MongoDB, and Working in Agile Environments
             </div>
             <div>
-              <span className="bold"> Deployed Sites:</span> Heroku, GitHub
+              <span className="bold"> Deployed sites to:</span> Heroku, GitHub
               Pages
             </div>
           </p>
