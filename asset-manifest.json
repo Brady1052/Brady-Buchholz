@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Brady-Buchholz/static/css/main.aaed9a6e.chunk.css",
-    "main.js": "/Brady-Buchholz/static/js/main.8091e154.chunk.js",
-    "main.js.map": "/Brady-Buchholz/static/js/main.8091e154.chunk.js.map",
+    "main.css": "/Brady-Buchholz/static/css/main.f1ad93ef.chunk.css",
+    "main.js": "/Brady-Buchholz/static/js/main.0510be13.chunk.js",
+    "main.js.map": "/Brady-Buchholz/static/js/main.0510be13.chunk.js.map",
     "runtime-main.js": "/Brady-Buchholz/static/js/runtime-main.f9dce467.js",
     "runtime-main.js.map": "/Brady-Buchholz/static/js/runtime-main.f9dce467.js.map",
     "static/js/2.9f16f79e.chunk.js": "/Brady-Buchholz/static/js/2.9f16f79e.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.91b5d926.chunk.js": "/Brady-Buchholz/static/js/3.91b5d926.chunk.js",
     "static/js/3.91b5d926.chunk.js.map": "/Brady-Buchholz/static/js/3.91b5d926.chunk.js.map",
     "index.html": "/Brady-Buchholz/index.html",
-    "static/css/main.aaed9a6e.chunk.css.map": "/Brady-Buchholz/static/css/main.aaed9a6e.chunk.css.map",
+    "static/css/main.f1ad93ef.chunk.css.map": "/Brady-Buchholz/static/css/main.f1ad93ef.chunk.css.map",
     "static/js/2.9f16f79e.chunk.js.LICENSE.txt": "/Brady-Buchholz/static/js/2.9f16f79e.chunk.js.LICENSE.txt",
     "static/media/Employee_Management_System.5abfd647.png": "/Brady-Buchholz/static/media/Employee_Management_System.5abfd647.png",
     "static/media/MovieDB.9db50ccb.png": "/Brady-Buchholz/static/media/MovieDB.9db50ccb.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.f9dce467.js",
     "static/js/2.9f16f79e.chunk.js",
-    "static/css/main.aaed9a6e.chunk.css",
-    "static/js/main.8091e154.chunk.js"
+    "static/css/main.f1ad93ef.chunk.css",
+    "static/js/main.0510be13.chunk.js"
   ]
 }
