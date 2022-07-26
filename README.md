@@ -16,7 +16,7 @@ React, Components, Props, HTML, CSS, Javascript
 
 ## How to use
 
-Website function as expected. Clicking the different sections at the top of the page takes the user to a page containing information related to that section. The resume link takes the user directly to an online resume.
+Clicking the different sections at the top of the page takes the user to a page containing information related to that section. The resume link takes the user directly to an online resume.
 
 ## Questions
 
